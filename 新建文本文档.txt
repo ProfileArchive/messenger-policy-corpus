@@ -1,0 +1,138 @@
+
+Messenger
+
+Features
+
+Privacy and Safety
+For Developers
+Help Center
+Message with peace of mind
+
+Safely and securely connect with your friends, family, and the communities that matter to you
+Preventing harm
+We prevent harm from reaching you through proactive measures, like warning you of content that may contain misinformation and reducing unwanted interactions.
+
+Learn more
+
+Giving you choice and control
+We give you control of your messaging experience by providing privacy and safety tools, settings, and resources.
+
+Learn more
+
+Responding with care
+We review and respond to potential abuse on our platform by using both machine learning technology and human reviewers. We also enforce our Community Standards and provide post-report updates and support resources.
+
+Learn more
+
+Preventing harm before it happens
+Whether you’re messaging a friend, business, or someone in a community chat, Messenger helps keep you safe online. We work to stop malicious activity before it reaches you.
+
+Reduce harmful content
+We'll let you know if you receive content that we detect as misinformation or if it contains unsafe links. We also limit the number of times a message can be forwarded to at a time.
+
+Learn more
+
+Reduce harmful content
+Prevent unwanted interactions
+Prevent unwanted interactions
+In-app safety notices pop up to help you spot suspicious activity, such as message requests from potential scam accounts. You are also guided to take action and report if something isn’t right.
+
+Learn more
+
+Protect your chats with end-to-end encryption
+Personal messages and calls on Messenger will be end-to-end encrypted by default. That means that messages and calls can only be seen or heard by you and the person you send them to, and no one else—not even Meta. Keep in mind, for reporting and optional features, you or someone in the chat may still choose to share messages with Meta.
+
+Learn more
+
+Protect your chats with end-to-end encryption
+Help teens stay safe online
+Help teens stay safe online
+Safety features and strict messaging defaults for minors protect them from unconnected adults and potentially inappropriate content.
+
+Learn more
+
+Empower your teens to build positive connections
+Empower your teens to build positive connections
+Parents can use tailored tools, insights and resources to partner with their teens to establish guidelines around staying safe, and guide them toward age-appropriate experiences.
+
+Learn more
+
+Equipping you with controls to protect your privacy
+Who you talk to and what you share should be up to you. Messenger’s privacy and safety tools give you the flexibility to connect in ways that are most comfortable to you.
+
+Icon for Message controls section
+Message controls
+Icon for Restrict and block section
+Restrict and block
+Icon for App lock section
+App lock
+Icon for Settings section
+Settings
+Feature asset for Message controls section
+Choose how long your messages stick around
+You can send messages that disappear after a certain time, permanently unsend a message for yourself or everyone in the group, and edit messages for up to 15 minutes after they've been sent.
+
+Learn more
+Feature asset for Restrict and block section
+Limit unwanted interactions
+If someone’s bothering you, you can restrict interactions or block them and any new accounts they create. We won’t tell them they’re blocked.
+
+Learn more
+Feature asset for App lock section
+Keep it extra secure
+With App lock on iOS and Android, you can use your device's biometrics to unlock Messenger, giving you extra protection for your chats.
+
+Learn more
+Feature asset for Settings section
+Choose who can reach you
+You decide who reaches your inbox, who goes to your Message Request folder, and who can’t message or call you at all. Privacy and safety settings give you control over message delivery, blocked contacts, story audience, and more.
+
+Learn more
+Making reporting simple
+If you see something, say something. If we detect a violation to our Community Standards, we’ll review and take appropriate action, which could include disabling an account or limiting a user’s ability to send messages.
+
+Report chats
+Report chats
+If you come across harmful content or behavior, such as harassment or impersonation, please report it. We review and respond to potential abuse on our platform by using both machine learning technology and humans.
+
+Learn more
+
+Stay informed
+Stay informed
+After submitting a report, you can check on the progress, resolution outcome, and additional actions you can take.
+
+Learn more
+
+
+Your personal messages are private
+We want you to know how we use your information. We collect information from Messenger so that we can improve the product experience and keep people safe and secure. We don’t use the content of your personal messages for ads personalization. Some types of messages that aren’t personal include messages to and from business accounts, messages exchanged with Meta when using products like Meta AI, and messages in features designed to be more public, like channels.
+
+Meta also adds an additional layer of privacy by securing personal messages and calls on Messenger with end-to-end encryption, which means nobody, including Meta, can see or listen to what’s sent or said in your calls or messages. Keep in mind, for reporting and optional features, you or someone in the chat may still choose to share messages with Meta.
+
+Learn more
+
+Whitepapers
+For in-depth, technical explanation of our tools and techniques, you can find our downloadable whitepapers here:
+
+Meta's Approach to Safer Private Messaging on Messenger and Instagram Direct Messaging
+
+Independent Assessment: Expanding End-to-End Encryption Protects Fundamental Human Rights
+
+The Labyrinth Encrypted Message Storage Protocol
+
+Messenger End-to-End Encryption Overview
+
+
+Additional resources
+Messenger Kids
+Family Supervision on Facebook and Messenger
+Messenger End-to-End Encryption
+Privacy and Security on Meta
+Meta Safety Center
+Meta Terms and Policies
+© Meta 2026
+Privacy Policy
+Cookie Policy
+Terms
+English (US)
+From Meta Logo
